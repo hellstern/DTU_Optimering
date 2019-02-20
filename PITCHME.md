@@ -21,7 +21,8 @@
 @snapend
 
 @snap[east text-white]
-  @size[1.5em](Tue Hellstern)
+  @size[1.5em](Tue)
+   @size[1.5em](Hellstern)
 @snapend
 
 ---?image=assets/img/black.jpg&position=right&size=40% 100%
