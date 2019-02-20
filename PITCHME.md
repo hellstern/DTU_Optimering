@@ -33,7 +33,7 @@
 
 ---
 
-+++?image=img/black.jpg&position=left&size=30% 100%
++++?image=assets/img/black.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
