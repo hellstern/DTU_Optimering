@@ -1,7 +1,7 @@
 ---?image=assets/img/presenter.jpg
 
-# @color[white](DTU Produktivitetsoptimering)
-# @color[white](Tue Hellstern)
+### @color[white](DTU Produktivitetsoptimering)
+### @color[white](Tue Hellstern)
 
 ---
 
