@@ -33,14 +33,17 @@
 
 ---
 
-+++?image=assets/img/black.jpg&position=left&size=30% 100%
++++?image=assets/img/black.jpg&position=left&size=40% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
-  @size[3em](2.)
+  @size[1.5em](Kursusindhold)
 @snapend
 
 @snap[east span-70]
-  Tekst
+  #### Excel Grund <> Avanceret
+  #### Tabeller
+  #### Pivot Tabeller - Power Pivot - Power Query - Power View
+  #### Excel VBA
 @snapend
 
