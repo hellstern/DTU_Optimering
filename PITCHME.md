@@ -9,15 +9,16 @@
 
 @snap[west span-70]
 
-#### 1. omgang
     <UL>
+      <LH>1. Omgang</LH>
       <LI>21-02-2019
       <LI>28-02-2019
       <LI>07-03-2019
     </UL>
 
-##### 2. omgang
-     <UL>     
+
+     <UL>
+      <LH>2. Omgang</LH>
       <LI>04-04-2019
       <LI>11-04-2019
     </UL>
