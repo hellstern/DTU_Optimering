@@ -30,9 +30,12 @@
 @snapend
 
 @snap[east span-60]
+@ul
 
-* 21-02-2019
-* 28-02-2019
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
 
+@ulend
 @snapend
 
