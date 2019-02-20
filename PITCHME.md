@@ -30,6 +30,7 @@
 
 @snap[west span-70]
     <UL>
+        <LH>Excel</LH>
         <LI>Excel Grund <> Avanceret
         <LI>Tabeller
         <LI>Pivot Tabeller
@@ -40,6 +41,7 @@
     </UL>
             
     <UL>
+        <LH>Andet</LH>
         <LI>Database - Teori/SQL
         <LI>Microsoft Project
     </UL>
