@@ -30,7 +30,6 @@
 
 @snap[west span-70]
 
-#### Excel
     <UL>
         <LI>Excel Grund <> Avanceret
         <LI>Tabeller
