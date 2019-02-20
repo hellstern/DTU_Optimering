@@ -33,7 +33,7 @@
 
 ---
 
-+++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
++++?image=template/img/bg/black.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
