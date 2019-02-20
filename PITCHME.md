@@ -42,13 +42,12 @@
 
 @snap[east span-70]
 
-  Excel Grund <> Avanceret
-  <br><br>
-  Tabeller
-  <br><br>
-  Pivot Tabeller - Power Pivot - Power Query - Power View
-  <br><br>
-  Excel VBA
+    <UL>
+      <LI>Excel Grund <> Avanceret
+      <LI>Tabeller
+      <LI>Pivot Tabeller - Power Pivot - Power Query - Power View
+      <LI>Excel VBA
+    </UL>
   
 @snapend
 
