@@ -4,30 +4,29 @@
 ### @color[white](DTU Produktivitetsoptimering)
 ### @color[white](Tue Hellstern)
 
+---
+
+---?image=assets/img/black.jpg&position=right&size=40% 100%
+@title[Tue Hellstern]
+
 ---?image=assets/img/orange.png&position=right&size=40% 100%
 @title[Datoer]
 
 @snap[west span-70]
 
     <UL>
-      <LH>1. Omgang</LH>
-      <LI>21-02-2019
-      <LI>28-02-2019
-      <LI>07-03-2019
-    </UL>
-
-<br>
-<br>
-     <UL>
-      <LH>2. Omgang</LH>
-      <LI>04-04-2019
-      <LI>11-04-2019
+      <LI>Uddandet på ITU
+      <LI>Selvstændig siden 1995
+      <LI>Underviser på DTU - 
+      <LI>Underviser på Cphbusiness - Datamatiker
+      <LI>Censor på flere forskellige uddandelser
+      <LI>
     </UL>
 
 @snapend
 
 @snap[east text-white]
-  @size[1.5em](Datoer)
+  @size[1.5em](Tue Hellstern)
 @snapend
 
 ---?image=assets/img/black.jpg&position=right&size=40% 100%
