@@ -34,20 +34,19 @@
 ---
 
 +++?image=assets/img/black.jpg&position=left&size=40% 100%
-@title[Sidebar + Image Body]
 
-@snap[west text-white]
-  @size[1.5em](Indhold)
-@snapend
-
-@snap[east span-70]
-
+@snap[west span-70]
     <UL>
       <LI>Excel Grund <> Avanceret
       <LI>Tabeller
       <LI>Pivot Tabeller - Power Pivot - Power Query - Power View
       <LI>Excel VBA
     </UL>
-  
 @snapend
+
+@snap[east text-white]
+  @size[1.5em](Indhold)
+@snapend
+
+
 
