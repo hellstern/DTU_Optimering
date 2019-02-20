@@ -12,9 +12,9 @@
     <UL>
       <LI>Uddandet på ITU
       <LI>Selvstændig siden 1995
-      <LI>Underviser på DTU - 
-      <LI>Underviser på Cphbusiness - Datamatiker
-      <LI>Censor på flere forskellige uddandelser
+      <LI>Underviser på DTU
+      <LI>Underviser på Cphbusiness
+      <LI>Censor
       <LI>
     </UL>
 
@@ -49,6 +49,22 @@
 
 @snap[east text-white]
   @size[1.5em](Indhold)
+@snapend
+
+---?color=#E6E8EC
+
+@snap[north-east graphql-title]
+@size[1.5em](GraphQL)
+@snapend
+
+@snap[east graphql-bullets]
+@ul[](false)
+- Query is a read-only operation
+- Mutation is a read-write operation
+- Resolver provides a mapping between a portion of a GraphQL operation and a backend handler
+- Schema defines what queries and mutations can be performed
+- Type defines the shape of response data that can be returned
+@ulend
 @snapend
 
 
