@@ -33,7 +33,7 @@
 
 ---
 
-+++?image=assets/img/black.jpg&position=left&size=40% 100%
++++?image=assets/img/black.jpg&position=right&size=40% 100%
 
 @snap[west span-70]
     <UL>
