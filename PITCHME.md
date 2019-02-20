@@ -8,16 +8,13 @@
 @title[Tue Hellstern]
 
 @snap[west span-70]
-
-    <UL>
-      <LI>Uddandet på ITU
-      <LI>Selvstændig siden 1995
-      <LI>Underviser på DTU
-      <LI>Underviser på Cphbusiness
-      <LI>Censor
-      <LI>
-    </UL>
-
+    @ul[](false)
+      - Uddandet på ITU
+      - Selvstændig siden 1995
+      - Underviser på DTU
+      - Underviser på Cphbusiness
+      - Censor
+    @ulend
 @snapend
 
 @snap[east text-white]
@@ -25,31 +22,20 @@
    @size[1.5em](Hellstern)
 @snapend
 
----?image=assets/img/black.jpg&position=right&size=40% 100%
-@title[Indhold]
+---?image=assets/img/black.jpg&position=left&size=40% 100%
 
-@snap[west span-70]
-
-    <UL>
-        <LI>@color[blue](Excel Grund <> Avanceret)
-        <LI>@color[blue](Tabeller)
-        <LI>@color[blue](Pivot Tabeller)
-        <LI>@color[blue](Power Pivot)
-        <LI>@color[blue](Power Query)
-        <LI>@color[blue](Power View)
-        <LI>@color[blue](Excel VBA)
-    </UL>
-
-#### 
-    <UL>
-        <LI>@color[green](Database - Teori/SQL)
-        <LI>@color[green](Microsoft Project)
-    </UL>
-    
+@snap[west text-white]
+  @size[1.5em](Datoer)
 @snapend
 
-@snap[east text-white]
-  @size[1.5em](Indhold)
+@snap[east graphql-bullets]
+    @ul[](false)
+        - 21-02-2019
+        - 28-02-2019
+        - 07-03-2019
+        - 04-04-2019
+        - 11-04-2019
+    @ulend
 @snapend
 
 ---?image=assets/img/black.jpg&position=left&size=40% 100%
