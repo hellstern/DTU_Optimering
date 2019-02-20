@@ -25,11 +25,11 @@
 
 ---
 
-@snap[west]
+@snap[west span-40]
 @size[1.5em](Kursusgange)
 @snapend
 
-@snap[east]
+@snap[east span-60]
 
 21-02-2019
 
