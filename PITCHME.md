@@ -1,3 +1,5 @@
+---?image=assets/img/presenter.jpg
+
 # DTU Produktivitetsoptimering
 # Tue Hellstern
 
