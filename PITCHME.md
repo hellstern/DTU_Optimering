@@ -8,16 +8,20 @@
 @title[Datoer]
 
 @snap[west span-70]
+
     <UL>
       <LI>21-02-2019
       <LI>28-02-2019
       <LI>07-03-2019
      </UL>
-          
+
+####
+
      <UL>     
       <LI>04-04-2019
       <LI>11-04-2019
     </UL>
+
 @snapend
 
 @snap[east text-white]
