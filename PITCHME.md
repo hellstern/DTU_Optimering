@@ -33,13 +33,13 @@
 @snap[west span-70]
 
     <UL>
-        <LI>Excel Grund <> Avanceret
-        <LI>Tabeller
-        <LI>Pivot Tabeller
-        <LI>Power Pivot
-        <LI>Power Query
-        <LI>Power View
-        <LI>Excel VBA
+        <LI>@color[blue](Excel Grund <> Avanceret)
+        <LI>@color[blue](Tabeller)
+        <LI>Pivot Tabeller)
+        <LI>@color[blue](Power Pivot)
+        <LI>@color[blue](Power Query)
+        <LI>@color[blue](Power View)
+        <LI>@color[blue](Excel VBA)
     </UL>
 
 #### 
