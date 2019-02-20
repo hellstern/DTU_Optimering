@@ -35,7 +35,7 @@
     <UL>
         <LI>@color[blue](Excel Grund <> Avanceret)
         <LI>@color[blue](Tabeller)
-        <LI>Pivot Tabeller)
+        <LI>@color[blue](Pivot Tabeller)
         <LI>@color[blue](Power Pivot)
         <LI>@color[blue](Power Query)
         <LI>@color[blue](Power View)
