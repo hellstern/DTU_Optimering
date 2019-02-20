@@ -42,13 +42,13 @@
 
 @snap[east span-70]
 
-  #### Excel Grund <> Avanceret
+  Excel Grund <> Avanceret
 
-  #### Tabeller
+  Tabeller
 
-  #### Pivot Tabeller - Power Pivot - Power Query - Power View
+  Pivot Tabeller - Power Pivot - Power Query - Power View
 
-  #### Excel VBA
+  Excel VBA
   
 @snapend
 
