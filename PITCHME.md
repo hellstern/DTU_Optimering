@@ -21,7 +21,7 @@
 @snapend
 
 @snap[east text-white]
-  @size[1.5em](Tue)
+  @size[1.5em](Tue) <br>
    @size[1.5em](Hellstern)
 @snapend
 
