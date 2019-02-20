@@ -41,7 +41,7 @@
         <LI>Excel VBA
     </UL>
 
-#### Andet
+#### 
     <UL>
         <LI>Database - Teori/SQL
         <LI>Microsoft Project
