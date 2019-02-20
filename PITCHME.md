@@ -54,18 +54,16 @@
 
 ---?color=#E6E8EC
 
-@snap[north-east graphql-title]
-@size[1.5em](GraphQL)
-@snapend
-
 @snap[east graphql-bullets]
-@ul[](false)
-- Query is a read-only operation
-- Mutation is a read-write operation
-- Resolver provides a mapping between a portion of a GraphQL operation and a backend handler
-- Schema defines what queries and mutations can be performed
-- Type defines the shape of response data that can be returned
-@ulend
+    @ul[](false)
+        - @color[blue](Excel Grund <> Avanceret)
+        - @color[blue](Tabeller)
+        - @color[blue](Pivot Tabeller)
+        - @color[blue](Power Pivot)
+        - @color[blue](Power Query)
+        - @color[blue](Power View)
+        - @color[blue](Excel VBA)
+    @ulend
 @snapend
 
 
