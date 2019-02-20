@@ -40,5 +40,5 @@
 @snapend
 
 @snap[west graphql-arch]
-![](assets/images/graphql.png)
+Testkst
 @snapend
