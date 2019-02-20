@@ -29,8 +29,9 @@
 +++?image=assets/img/black.jpg&position=right&size=40% 100%
 
 @snap[west span-70]
+
+#### Excel
     <UL>
-        <LH>Excel</LH>
         <LI>Excel Grund <> Avanceret
         <LI>Tabeller
         <LI>Pivot Tabeller
@@ -39,9 +40,9 @@
         <LI>Power View
         <LI>Excel VBA
     </UL>
-            
+
+#### Andet
     <UL>
-        <LH>Andet</LH>
         <LI>Database - Teori/SQL
         <LI>Microsoft Project
     </UL>
