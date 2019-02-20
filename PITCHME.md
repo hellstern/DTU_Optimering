@@ -30,13 +30,7 @@
 @snapend
 
 @snap[east span-60]
-
-@ul(false)
-
-- Plain text list item
-- Rich **markdown** list *item*
-- Link [within](https://gitpitch.com) list item
-
-@ulend
+#### Test
+#### Test 2
 @snapend
 
