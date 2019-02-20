@@ -52,7 +52,11 @@
   @size[1.5em](Indhold)
 @snapend
 
----?color=#E6E8EC
+---?image=assets/img/black.jpg&position=left&size=40% 100%
+
+@snap[west text-white]
+  @size[1.5em](Indhold)
+@snapend
 
 @snap[east graphql-bullets]
     @ul[](false)
@@ -63,6 +67,8 @@
         - @color[blue](Power Query)
         - @color[blue](Power View)
         - @color[blue](Excel VBA)
+        - @color[green](Database - Teori/SQL)
+        - @color[green](Microsoft Project)
     @ulend
 @snapend
 
