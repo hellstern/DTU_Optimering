@@ -30,7 +30,8 @@
 @snapend
 
 @snap[east span-60]
-@ul
+
+@ul(false)
 
 - Plain text list item
 - Rich **markdown** list *item*
