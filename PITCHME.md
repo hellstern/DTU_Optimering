@@ -37,13 +37,18 @@
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
-  @size[1.5em](Kursusindhold)
+  @size[1.5em](Indhold)
 @snapend
 
 @snap[east span-70]
+
   #### Excel Grund <> Avanceret
+
   #### Tabeller
+
   #### Pivot Tabeller - Power Pivot - Power Query - Power View
+
   #### Excel VBA
+  
 @snapend
 
