@@ -5,30 +5,21 @@
 
 ---
 
-@snap[west span-40]
-@size[1.5em](Kursusgange)
++++?image=assets/img/black.jpg&position=right&size=40% 100%
+
+@snap[west span-70]
+    <UL>
+      <LI>21-02-2019
+      <LI>28-02-2019
+      <LI>07-03-2019
+      <LI>
+      <LI>04-04-2019
+      <LI>11-04-2019
+    </UL>
 @snapend
 
-@snap[east span-60]
-  #### 21-02-2019
-  #### 28-02-2019
-  #### 07-03-2019
-
-  #### 04-04-2019
-  #### 11-04-2019
-@snapend
-
----
-
-@snap[west span-40]
-@size[1.5em](Kursusindhold)
-@snapend
-
-@snap[east span-60]
-  #### Excel Grund <> Avanceret
-  #### Tabeller
-  #### Pivot Tabeller - Power Pivot - Power Query - Power View
-  #### Excel VBA
+@snap[east text-white]
+  @size[1.5em](Indhold)
 @snapend
 
 ---
@@ -39,7 +30,10 @@
     <UL>
       <LI>Excel Grund <> Avanceret
       <LI>Tabeller
-      <LI>Pivot Tabeller - Power Pivot - Power Query - Power View
+      <LI>Pivot Tabeller
+      <LI>Power Pivot
+      <LI>Power Query
+      <LI>Power View
       <LI>Excel VBA
     </UL>
 @snapend
