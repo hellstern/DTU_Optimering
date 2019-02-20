@@ -1,11 +1,11 @@
 ---?image=assets/img/presenter.jpg
+@title[Opstart]
 
 ### @color[white](DTU Produktivitetsoptimering)
 ### @color[white](Tue Hellstern)
 
----
-
-+++?image=assets/img/black.jpg&position=right&size=40% 100%
+---?image=assets/img/black.jpg&position=right&size=40% 100%
+@title[Datoer]
 
 @snap[west span-70]
     <UL>
@@ -24,9 +24,8 @@
   @size[1.5em](Indhold)
 @snapend
 
----
-
-+++?image=assets/img/black.jpg&position=right&size=40% 100%
+---?image=assets/img/black.jpg&position=right&size=40% 100%
+@title[Indhold]
 
 @snap[west span-70]
 
