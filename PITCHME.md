@@ -4,7 +4,7 @@
 ### @color[white](DTU Produktivitetsoptimering)
 ### @color[white](Tue Hellstern)
 
----?image=assets/img/orange.jpg&position=right&size=40% 100%
+---?image=assets/img/orange.png&position=right&size=40% 100%
 @title[Datoer]
 
 @snap[west span-70]
