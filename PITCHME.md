@@ -33,17 +33,14 @@
 
 ---
 
-+++?image=img/bg/black.jpg&position=left&size=30% 100%
++++?image=img/black.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
 
 @snap[west text-white]
-@size[3em](2.)
+  @size[3em](2.)
 @snapend
 
 @snap[east span-70]
-![SNOWMAN](template/img/snowman.gif)
+  Tekst
 @snapend
 
-@snap[north-east template-note text-gray]
-Sidebar with image body template.
-@snapend
