@@ -16,7 +16,6 @@
     </UL>
 
 #### Pause
-
      <UL>     
       <LI>04-04-2019
       <LI>11-04-2019
@@ -45,8 +44,8 @@
 
 #### 
     <UL>
-        <LI>Database - Teori/SQL
-        <LI>Microsoft Project
+        <LI>@color[green](Database - Teori/SQL)
+        <LI>@color[green](Microsoft Project)
     </UL>
     
 @snapend
