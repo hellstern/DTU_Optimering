@@ -25,11 +25,11 @@
 
 ---
 
-@snap[west graphql-title]
+@snap[west]
 @size[1.5em](Kursusgange)
 @snapend
 
-@snap[east graphql-bullets]
+@snap[east]
 
 - 21-02-2019
 
