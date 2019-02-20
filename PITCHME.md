@@ -13,9 +13,9 @@
       <LI>21-02-2019
       <LI>28-02-2019
       <LI>07-03-2019
-     </UL>
+    </UL>
 
-####
+#### Pause
 
      <UL>     
       <LI>04-04-2019
@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east text-white]
-  @size[1.5em](Indhold)
+  @size[1.5em](Datoer)
 @snapend
 
 ---?image=assets/img/black.jpg&position=right&size=40% 100%
