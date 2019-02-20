@@ -25,20 +25,16 @@
 
 ---
 
-@snap[north-east graphql-title]
-@size[1.5em](GraphQL)
+@snap[west graphql-title]
+@size[1.5em](Kursusgange)
 @snapend
 
 @snap[east graphql-bullets]
-@ul[](false)
-- Query is a read-only operation
-- Mutation is a read-write operation
-- Resolver provides a mapping between a portion of a GraphQL operation and a backend handler
-- Schema defines what queries and mutations can be performed
-- Type defines the shape of response data that can be returned
-@ulend
+* 21-02-2019
+* 28-02-2019
+* 07-03-2019
+
+* 04-04-2019
+* 11-04-2019
 @snapend
 
-@snap[west graphql-arch]
-Testkst
-@snapend
